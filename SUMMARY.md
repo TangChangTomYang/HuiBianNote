@@ -10,4 +10,5 @@
   * [005-汇编语言 jmp 指令](001hui-bian-yu-yan-ru-men/005hui-bian-yu-yan-jmp-zhi-ling.md)
   * [006-汇编语言--ds 寄存器](001hui-bian-yu-yan-ru-men/006hui-bian-yu-8a00-ds-ji-cun-qi.md)
   * [007-汇编语言--SS栈段寄存器](001hui-bian-yu-yan-ru-men/007hui-bian-yu-8a00-sp-zhan-duan-ji-cun-qi.md)
+  * [008-汇编语言--中端](001hui-bian-yu-yan-ru-men/008hui-bian-yu-8a00-zhong-duan.md)
 
