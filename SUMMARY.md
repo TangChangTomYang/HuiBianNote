@@ -7,4 +7,5 @@
   * [002- 汇编语言学习--内存](001hui-bian-yu-yan-ru-men/002-hui-bian-yu-yan-xue-4e60-nei-cun.md)
   * [003-汇编语言--段寄存器](001hui-bian-yu-yan-ru-men/003hui-bian-yu-8a00-duan-ji-cun-qi.md)
   * 004-汇编语言--CS 代码段寄存器
+  * [005-汇编语言 jmp 指令](001hui-bian-yu-yan-ru-men/005hui-bian-yu-yan-jmp-zhi-ling.md)
 
